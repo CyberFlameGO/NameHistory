@@ -1,0 +1,6 @@
+name: NameHistory
+author: CyberFlame
+version: 1.0
+main: net.cyberflame.namehistory.NameHistory
+commands:
+    nh:
